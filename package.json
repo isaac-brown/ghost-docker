@@ -1,0 +1,21 @@
+{
+  "name": "ghost-docker",
+  "version": "1.0.0",
+  "description": "Intention is to be used to host a Ghost blog on Heroku or something.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaac-brown/ghost-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isaac-brown/ghost-docker/issues"
+  },
+  "homepage": "https://github.com/isaac-brown/ghost-docker#readme"
+}
